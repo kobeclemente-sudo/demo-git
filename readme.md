@@ -10,4 +10,15 @@ Comandos:
 - git clone
 - git push
 - git pull
-prueba del cambio 
+
+
+Ramas:
+-git branch
+-git checkout
+-git merge
+
+Prueba del cambio y para el commit nuevo
+features/about
+
+    -about.html
+    -about.css + about.js
