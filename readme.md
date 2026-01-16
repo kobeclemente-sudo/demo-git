@@ -16,8 +16,13 @@ Ramas:
 -git branch
 -git checkout
 -git merge
+-fast-forward
+-ort / recursive
+
 
 Prueba del cambio y para el commit nuevo
+
+
 features/about
 
     -about.html
