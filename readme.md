@@ -12,6 +12,12 @@ Comandos:
 - git pull
 
 
+Ramas:
+-git branch
+-git checkout
+-git merge
+
+Prueba del cambio y para el commit nuevo
 features/about
 
     -about.html
