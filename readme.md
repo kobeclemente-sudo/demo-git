@@ -7,6 +7,7 @@ Comandos:
 - git status
 - git add
 - git commit
+- git remote
 - git clone
 - git push
 - git pull
@@ -27,3 +28,5 @@ features/about
 
     -about.html
     -about.css + about.js
+    El luene java script
+    
